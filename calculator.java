@@ -1,9 +1,13 @@
 # 기본 계산기
 
-public int add(a, b) {
+public int add(int a, int b) {
 	return a + b;
 }
 
-public int subtract(a, b) {
+public int subtract(int a, int b) {
 	return a - b;
+}
+
+public int multiply(int a, int b) {
+	return a * b;
 }
